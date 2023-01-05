@@ -1,0 +1,33 @@
+.bgimg2{
+	  background-image: url('https://img.freepik.com/free-vector/realistic-smartphone-with-apps-gradient-orange-shades_23-2148355785.jpg?w=1060&t=st=1672637919~exp=1672638519~hmac=4e53c8cf66416ac046c76012c11ff06242536c1d077a11bed2ea2ae8af6a195e');
+      background-size: cover;
+      height: 150vh;
+ }
+ .MobileHead{
+ 	color: white;
+ 	font-family: 'Roboto';
+ 	font-weight: bold;
+ 	font-size: 35px;
+ 	padding: 25px;
+ }
+ .layoutcard2{
+ 	background-color: white;
+ 	border-radius: 8px;
+ 	padding: 20px;
+ 	margin: 18px;
+ }     
+ .brandsimg {
+ 	width: 120px;
+ 	height: 120px;
+ }
+ .brandshead{
+ 	color: #0412836;
+ 	font-family: 'Roboto';
+ 	font-weight: bold;
+ 	font-size: 30px;
+}
+.brandspara{
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
